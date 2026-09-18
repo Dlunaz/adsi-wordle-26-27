@@ -6,15 +6,15 @@ Juego de **Wordle** desarrollado para la asignatura ADSI 2026-2027.
 
 ## 👥 Developers
 
-| Nombre | GitHub |
-|---|---|
-| Aitor de Miguel Marqués | [@AitordeMiguel](https://github.com/AitordeMiguel) |
-| Asier Serrano Arnaiz | [@AsierSerrano](https://github.com/AsierSerrano) |
-| Daniela Corrales Ibáñez | [@Dlunaz](https://github.com/Dlunaz) |
-| David Martínez García | [@DavidMartinezGarcia777](https://github.com/DavidMartinezGarcia777) |
-| Ekaitz Odriozola Diez | [@ekaodr](https://github.com/ekaodr) |
-| Gonzalo de Maguregui Sánchez | [@GonMa18](https://github.com/GonMa18) |
-| Lucía Sagasti Martínez | [@Luuciasm](https://github.com/Luuciasm) |
+| | Nombre | GitHub |
+|---|---|---|
+| <img src="https://github.com/AitordeMiguel.png" width="40"> | Aitor de Miguel Marqués | [@AitordeMiguel](https://github.com/AitordeMiguel) |
+| <img src="https://github.com/AsierSerrano.png" width="40"> | Asier Serrano Arnaiz | [@AsierSerrano](https://github.com/AsierSerrano) |
+| <img src="https://github.com/Dlunaz.png" width="40"> | Daniela Corrales Ibáñez | [@Dlunaz](https://github.com/Dlunaz) |
+| <img src="https://github.com/DavidMartinezGarcia777.png" width="40"> | David Martínez García | [@DavidMartinezGarcia777](https://github.com/DavidMartinezGarcia777) |
+| <img src="https://github.com/ekaodr.png" width="40"> | Ekaitz Odriozola Diez | [@ekaodr](https://github.com/ekaodr) |
+| <img src="https://github.com/GonMa18.png" width="40"> | Gonzalo de Maguregui Sánchez | [@GonMa18](https://github.com/GonMa18) |
+| <img src="https://github.com/Luuciasm.png" width="40"> | Lucía Sagasti Martínez | [@Luuciasm](https://github.com/Luuciasm) |
 
 ---
 
