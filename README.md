@@ -1,49 +1,49 @@
-<<<<<<< HEAD
-# adsi-wordle-26-27
-=======
-# Wordle
+# 🎮 Wordle - ADSI 2026-2027
 
-Aplicación Wordle sencilla para la asignatura ADSI.
+Juego de **Wordle** desarrollado para la asignatura ADSI 2026-2027.
 
-/////////////////////////////
+---
 
-ISAD irakasgairako Wordle aplikazio sinplea
+## 👥 Developers
 
-## Requisitos
+| | Nombre | GitHub |
+|---|---|---|
+| <img src="https://github.com/AitordeMiguel.png" width="40"> | Aitor de Miguel Marqués | [@AitordeMiguel](https://github.com/AitordeMiguel) |
+| <img src="https://github.com/AsierSerrano.png" width="40"> | Asier Serrano Arnaiz | [@AsierSerrano](https://github.com/AsierSerrano) |
+| <img src="https://github.com/Dlunaz.png" width="40"> | Daniela Corrales Ibáñez | [@Dlunaz](https://github.com/Dlunaz) |
+| <img src="https://github.com/DavidMartinezGarcia777.png" width="40"> | David Martínez García | [@DavidMartinezGarcia777](https://github.com/DavidMartinezGarcia777) |
+| <img src="https://github.com/ekaodr.png" width="40"> | Ekaitz Odriozola Diez | [@ekaodr](https://github.com/ekaodr) |
+| <img src="https://github.com/GonMa18.png" width="40"> | Gonzalo de Maguregui Sánchez | [@GonMa18](https://github.com/GonMa18) |
+| <img src="https://github.com/Luuciasm.png" width="40"> | Lucía Sagasti Martínez | [@Luuciasm](https://github.com/Luuciasm) |
 
-- Java 17
-- Maven 3.8 o superior
+---
 
-## Compilar y probar // Konpilatu eta probatu
+## 🚦 Estado
+
+🟡 **Developing**
+
+---
+
+## ⚙️ Requisitos
+
+- ☕ Java 17
+- 📦 Maven 3.8 o superior
+
+---
+
+## 🧪 Cómo compilar y probar
 
 ```bash
 mvn test
 mvn package
 ```
 
-## Ejecutar // Egikaritu
+---
+
+## 🚀 Cómo ejecutar
 
 ```bash
 java -cp target/wordle-inicial-1.0-SNAPSHOT.jar eus.ehu.adsi.wordle.WordleApp
 ```
 
-El programa permite jugar partidas independientes de Wordle con palabras de 5 letras
-y un máximo de 6 intentos.
-
-La aplicación incluye únicamente las funcionalidades necesarias para el juego inicial:
-reglas de la partida, evaluación de intentos, diccionario e interfaz gráfica.
-
-Esta versión no incluye usuarios, persistencia, rankings, logros, retos, modos de juego
-ni otros servicios adicionales.
-
-/////////////////////////////
-
-Programak 5 letrako hitzekin eta gehienez 6 saiakera egiteko aukera ematen du Wordle 
-partidak modu independentean jokatzeko.
-
-Aplikazioak hasierako jokorako beharrezkoak diren funtzionalitateak baino ez ditu 
-inplementatzen: partidaren arauak, saiakeren ebaluazioa, hiztegia eta interfaze grafikoa.
-
-Bertsio honek ez ditu erabiltzaileak, iraunkortasuna, sailkapenak, lorpenak, erronkak, 
-joko-moduak edo beste zerbitzu gehigarri batzuk barne hartzen.
->>>>>>> master
+---
