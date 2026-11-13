@@ -18,8 +18,8 @@
 *.bcf
 *.run.xml
 
-# Salida de Tectonic / LaTeX Studio
+# Salida de Tectonic / LaTeX One-Click
 .latex-build/
+out/
 
-# PDF generado
-main.pdf
+# El PDF final main.pdf se versiona a propósito

@@ -1,6 +1,11 @@
 {
-  "latexStudio.engine": "tectonic",
-  "latexStudio.build.onSave": true,
-  "latexStudio.build.outputDirectory": ".latex-build",
-  "latexStudio.preview.openOnBuild": true
+  "latexOneClick.autoCompileOnSave": true,
+  "latexOneClick.compileDebounceMs": 1000,
+  "latexOneClick.mainFile": "main.tex",
+  "latexOneClick.outputDirectory": ".latex-build",
+  "latexOneClick.compileTimeoutSec": 300,
+  "latexOneClick.preview.autoOpen": true,
+  "latexOneClick.preview.preserveFocus": true,
+  "latexOneClick.syncTeX": true,
+  "latexOneClick.tectonicKeepLogs": true
 }
