@@ -1,0 +1,25 @@
+# Auxiliares de LaTeX
+*.aux
+*.log
+*.out
+*.toc
+*.lof
+*.lot
+*.nav
+*.snm
+*.vrb
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.synctex(busy)
+*.xdv
+*.bbl
+*.blg
+*.bcf
+*.run.xml
+
+# Salida de Tectonic / LaTeX Studio
+.latex-build/
+
+# PDF generado
+main.pdf

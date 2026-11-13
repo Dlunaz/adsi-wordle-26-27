@@ -1,0 +1,6 @@
+{
+  "latexStudio.engine": "tectonic",
+  "latexStudio.build.onSave": true,
+  "latexStudio.build.outputDirectory": ".latex-build",
+  "latexStudio.preview.openOnBuild": true
+}
